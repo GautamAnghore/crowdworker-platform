@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'crowdworker',
         'HOST': '127.0.0.1',
         'USER': 'root',
-        'PASSWORD': 'sug123',
+        'PASSWORD': '',
         'PORT': 3306,
     }
 }
